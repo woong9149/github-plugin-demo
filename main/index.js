@@ -1,3 +1,5 @@
+import * as pr from './create-pr-test';
+
 let addTest;
 let commitTest;
 let commitAmendTest;
