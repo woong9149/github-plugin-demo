@@ -9,3 +9,9 @@ function githubTest2() {
 }
 
 githubTest2();
+
+function githubTest3() {
+    console.log('github test start3');
+}
+
+githubTest3();
