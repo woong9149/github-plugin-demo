@@ -1,3 +1,12 @@
+let addTest;
+let commitTest;
+let commitAmendTest;
+let pushTest;
+let forcePushTest;
+let createPrTest;
+let pullTest;
+let createNewBranchTest;
+
 function githubTest() {
     console.log('github test start');
 }
@@ -16,3 +25,4 @@ function githubTest3() {
 githubTest();
 githubTest2();
 githubTest3();
+
